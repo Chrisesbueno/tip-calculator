@@ -135,10 +135,8 @@ input[type=number]::-webkit-inner-spin-button, input[type=number]::-webkit-outer
   margin: 0; 
 }
 /* HEADER */
-header h1 {
+header img {
     margin: 1.5rem 0;
-    color: var(--dark-grayish-cyan);
-    letter-spacing: 10px;
 }
 /* FOOTER */
 .attribution {
@@ -212,9 +210,8 @@ header h1 {
     .selectTip {
         margin: 2.5rem 0 3rem;
     }
-    header h1 {
-        margin: 0rem 0 3rem;
-        font-size: 24px;
+    header img {
+        margin: 0rem 0 2rem;
     }
     .attribution {
         margin-top: 2rem;
